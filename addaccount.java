@@ -29,12 +29,12 @@ public class addaccount {
         ph_no = phno;
     }
 
-    public void credit(int account_number,int money){
+   /* public void credit(int account_number,int money){
         account_balance = money;
     }
     public int debit(int debit) {
         account_balance = account_balance - debit;
         return account_balance;
-    }
+    }*/
 
 }
